@@ -53,7 +53,7 @@ public class EmpClass {
         this.salary = salary;
         this.designation = designation;
     }
-//this super class
+//this super class 00
     public EmpClass() {
         super();
     }
